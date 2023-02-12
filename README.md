@@ -12,6 +12,6 @@ python playback.py examples/example.mp4
 
 
 # Example output
-![example.gif](examples/example.gif)
+![example.gif](https://raw.githubusercontent.com/NickJordan289/DarkAndDarker-MapHelper/main/Examples/example.gif)
 
 ## Feel free to contribute!
