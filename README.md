@@ -2,6 +2,7 @@
 Small python script that generates the path you travelled using OpenCV to read the minimap.
 
 Goal is to use the markers shown on https://darkanddarker.map.spellsandguns.com/map/Crypt-01-N to help learn loot locations.
+
 Contributions to these goals would be appreciated!
 
 # Example output
